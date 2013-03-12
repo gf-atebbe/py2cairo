@@ -1,0 +1,3 @@
+include src/*.h
+include src/__init__.py
+include pycairo.pc
